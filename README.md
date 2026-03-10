@@ -1,4 +1,14 @@
-# SouravNova | Full-Stack Developer
+<!-- TOP BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,100:A50044&height=220&section=header&text=SouravNova&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Sourav</h1>
+<h3 align="center">Full Stack Developer | Java Programmer | Problem Solver</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Programmer;Learning+DSA;Building+Awesome+Projects;FC+Barcelona+Fan+⚽"/>
+</p>
 
 <table style="border:none;">
   <tr>
@@ -8,14 +18,15 @@
     <td style="border:none; padding-left:15px; vertical-align:middle;">
       <h3>Més que un club – More than a club</h3>
     </td>
+     <td style="border:none; padding-left:15px; vertical-align:middle;">
+      <p align="center">
+          <img src="./barca_flag.gif" width="400" style="margin-left:20px"/>
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
-
-<p align="center">
-  <img src="./barca_flag.gif" width="400" style="margin-left:20px"/>
-</p>
 
 ## 👨‍💻 About Me
 I am a full-stack developer focused on building scalable and efficient web applications.  

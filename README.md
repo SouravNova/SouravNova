@@ -54,6 +54,14 @@ Passionate about problem-solving, learning new technologies, and contributing to
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravNova&theme=tokyo-night"/>
+</p>
+
+---
+
 ## 📚 Current Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,dsa&theme=dark" />

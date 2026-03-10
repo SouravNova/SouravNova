@@ -1,11 +1,21 @@
 # SouravNova | Full-Stack Developer
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="100"/>
-  <img src="./barca_flag.gif" width="150" style="margin-left:20px"/>
-</p>
+<table style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="100"/>
+    </td>
+    <td style="border:none; padding-left:15px; vertical-align:middle;">
+      <h3>Més que un club – More than a club</h3>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<p align="center">
+  <img src="./barca_flag.gif" width="400" style="margin-left:20px"/>
+</p>
 
 ## 👨‍💻 About Me
 I am a full-stack developer focused on building scalable and efficient web applications.  

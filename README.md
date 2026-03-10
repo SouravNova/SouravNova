@@ -1,9 +1,9 @@
 # SouravNova | Full-Stack Developer
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" width="100"/>
+  <img src="./barca_flag.gif" width="150" style="margin-left:20px"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me

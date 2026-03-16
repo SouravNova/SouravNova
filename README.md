@@ -1,4 +1,7 @@
-
+<!-- TOP BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,100:A50044&height=220&section=header&text=SouravNova&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h1 align="center">Hi 👋 I'm Sourav</h1>
 <h3 align="center">Full Stack Developer | Java Programmer | Problem Solver</h3>
